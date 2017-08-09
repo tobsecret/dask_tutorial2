@@ -1,0 +1,18 @@
+name: dask_tutorial2
+channels:
+- conda-forge
+- defaults
+dependencies:
+- dask=0.15.0=py35_0
+- distributed=1.17.1=py35_0
+- beautifulsoup4=4.6.0=py35_0
+- jupyter=1.0.0=py35_3
+- scikit-learn=0.17.1=np111py35_1
+- scipy=0.17.1=np111py35_1
+- seaborn=0.8=py35_0
+- graphviz=2.38.0=4
+- python-graphviz=0.7.1=py35_0
+- pip:
+  - bioservices==1.4.17
+prefix: C:\Users\Tobias\Miniconda3\envs\PDSH_mod
+
